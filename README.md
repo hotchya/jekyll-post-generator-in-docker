@@ -4,7 +4,8 @@ jekyll post generator - https://github.com/anasrar/Jekyll-Post-Generator
 
 I just made the above code to run with nodejs and docker.
 
-## usage
+
+# usage
 
 ```
 docker run -dit -p 3000:3000 hotchya/jpgd
